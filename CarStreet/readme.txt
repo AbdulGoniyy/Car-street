@@ -1,21 +1,18 @@
 -----------------------
 # README
 -----------------------
-CarVilla is a one page bootstrap 3 based Car Dealer Automotive website template.
+CarStreet is a one page bootstrap 3 based Car Dealer Automotive website template.
 
 
-Template Info:
+project Info:
 -----------------------
-Name: 		CarVilla - Free Bootstrap One Page Car Dealer Automotive website template
+Name: 		CarStreet - Free Bootstrap One Page Car Dealer Automotive website 
 Version: 	1.0
-Author: 	ThemeSINE
-Website: 	https://www.themesine.com/
-
+Author: 	Kelani AbdGaniyy
 
 Changelog:
 -----------------------
-Version 1.0 13-06-2018
-- initial release 
+Version 1.0 24-12-2023
 
 
 Credits:
@@ -29,6 +26,3 @@ Credits:
 - Pexels https://www.pexels.com/
 - Unsplash https://unsplash.com/
 
-License:
------------------------
-This template is under Free License - https://www.themesine.com/license/
